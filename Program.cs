@@ -6,6 +6,7 @@
         {
             int num = 9;
             Console.WriteLine(num);
+            Console.WriteLine(num*2);
             Console.WriteLine("Hello, World!");
         }
     }
